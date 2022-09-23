@@ -1,8 +1,13 @@
 {
-  "name": "mdb-react-template",
-  "version": "4.0.0",
-  "description": "template for mdb-react-ui-kit",
-  "private": true,
+  "name": "@mdbootstrap/react-hero",
+  "version": "1.0.0",
+  "description": "Responsive React Hero built with Bootstrap 5. Examples include hero image, hero banner, hero slider, hero section & more.",
+  "private": false,
+  "homepage": "https://mdbootstrap.com/docs/react/extended/hero/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/hero"
+  },
   "dependencies": {
     "mdb-react-ui-kit": "^4.0.0",
     "react": "^18.1.0",
@@ -19,7 +24,15 @@
   },
   "keywords": [
     "template",
-    "react"
+    "react",
+    "bootstrap",
+    "bootstrap5",
+    "bootstrap-template",
+    "bootstrap-theme",
+    "css",
+    "html",
+    "jsx",
+    "js"
   ],
   "author": "MDBootstrap",
   "license": "MIT",
